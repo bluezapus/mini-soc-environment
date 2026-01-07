@@ -13,11 +13,11 @@ Refer to the documentation below for detailed explanations:
 ## 1️ UBUNTU 22.04 LTS — **SOC CORE / GATEWAY**
 
 Rule
-- SOC Core √
-- Router (L3 Gateway) √
+- SOC Core ✅ done
+- Router (L3 Gateway) ✅ done
 - Firewall
 - VPN Termination 
-- Log Ingestion & Analysis √
+- Log Ingestion & Analysis ✅ done
 
 **Network:**
 - `eth0` → Management / VPN  
@@ -29,23 +29,23 @@ Rule
 - **Firewall FORWARD: DROP by default**
     
 **Installed Software:**
-- Elasticsearch **9.2.3** (TLS ON) √
-- Kibana **9.2.3** (TLS ON) √
-- Logstash (TLS ON) √
+- Elasticsearch **9.2.3** (TLS ON) ✅ done
+- Kibana **9.2.3** (TLS ON) ✅ done
+- Logstash (TLS ON) ✅ done
 - WireGuard (VPN)
 - ufw firewall
 
 **Security Requirements:**
-- HTTPS only (no HTTP) √
-- Elasticsearch bind **internal only** √
+- HTTPS only (no HTTP) ✅ done
+- Elasticsearch bind **internal only** ✅ done
 - Kibana exposed **VPN only**
-- Static IP (NO DHCP) √
+- Static IP (NO DHCP) ✅ done
 ---
 ## 2️ WINDOWS 10 — **VICTIM / ENDPOINT**
 **Peran:**
-- Endpoint victim √
-- Telemetry source √
-- Detection target √
+- Endpoint victim ✅ done
+- Telemetry source ✅ done
+- Detection target ✅ done
 
 **Network:**
 - Single NIC
@@ -56,12 +56,12 @@ Rule
 - Static IP
 
 **Installed Software:**
-- Sysmon √
-- Winlogbeat / Elastic Agent √
+- Sysmon ✅ done
+- Winlogbeat / Elastic Agent ✅ done
 - (Optional) Attack simulation tools
 
 **Log Destination:**
-- Logstash → `192.168.100.1:5044` (TLS) √
+- Logstash → `192.168.100.1:5044` (TLS) ✅ done
 
 ---
 ## 3️ ARMBIAN (SBC) — **INTERNAL TICKETING**
