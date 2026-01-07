@@ -131,12 +131,3 @@ Rule
 - Static IP for deterministic logging
 - Least Exposure
 
----
-## EXPLICITLY NOT USED
-
-- DHCP Server
-- Hub
-- Additional Router
-- Dual-NIC on Victim
-- Plain HTTP
-- Direct attacker access to internal LAN
