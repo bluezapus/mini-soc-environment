@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "67f81f56a675bf3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bee1470a13daaae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d725f795aaec1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59ecb5b18abfc5b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "68cd1473a91efe78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f267d21e3a5333d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "08e546bce7e83e4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a303f87f56637e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11d420078ade390e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2565b5b4f689036",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9063118ab5ff24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MINI SOC LAB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MINI SOC LAB"
+            }
+          },
+          {
+            "id": "d1a20d0e6ead7d07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MINI SOC LAB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MINI SOC LAB"
+            }
+          },
+          {
+            "id": "c5b43c8a44952cfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fa3a1592ba598ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1738da70d7f60648",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MINI SOC LAB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MINI SOC LAB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8d725f795aaec1b6",
+  "lastOpenFiles": [
+    "roadmap.md",
+    "README.md",
+    "screenshot/windows-victim/Get-Service.png",
+    "screenshot/windows-victim/event.png",
+    "screenshot/windows-victim/Screenshot (6).png",
+    "screenshot/windows-victim/Screenshot (5).png",
+    "docs/alur-log.md",
+    "docs/arsitektur.md",
+    "docs/scope-portofolio.md",
+    "struktur.md",
+    "MINI SOC LAB.md",
+    "path/file.md",
+    "path",
+    "screenshot/UI/kibana.png",
+    "screenshot/UI/event-log3.png",
+    "screenshot/ubuntu-server/status-logstash.png",
+    "screenshot/ubuntu-server/status-kibana.png",
+    "screenshot/ubuntu-server/status-elasticsearch.png",
+    "Untitled.md",
+    "docs",
+    "screenshot/ubuntu-server/setup-elasticsearch.png",
+    "screenshot/UI",
+    "windows-victim/sysmon/sysmonconfig.xml",
+    "windows-victim/winlogbeat/winlogbeat.yml",
+    "windows-victim/winlogbeat/sysmonconfig.xml",
+    "server-ubuntu/50-cloud-init.yaml",
+    "screenshot/windows-victim",
+    "screenshot/ubuntu-server",
+    "screenshot",
+    "Welcome.md"
+  ]
+}
