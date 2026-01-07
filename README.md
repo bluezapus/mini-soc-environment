@@ -2,14 +2,14 @@
 
 Status: **In Progress (Detection Engineering Phase)**
 
-roadmap:  [Roadmap Progres](roadmap)
+roadmap:  [Roadmap Progres](roadmap.md)
 
 ---
 Refer to the documentation below for detailed explanations:
 
-- [Architecture Overview ](docs/alur-log)
-- [Log & Telemetry Flow](docs/arsitektur)
-- [Portfolio Scope](docs/scope-portofolio)
+- [Architecture Overview ](docs/alur-log.md)
+- [Log & Telemetry Flow](docs/arsitektur.md)
+- [Portfolio Scope](docs/scope-portofolio.md)
 ## 1️ UBUNTU 22.04 LTS — **SOC CORE / GATEWAY**
 
 Rule
